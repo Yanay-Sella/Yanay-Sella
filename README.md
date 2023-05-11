@@ -1,6 +1,6 @@
 <h1 align="center">Hi, im Yanay Sella</h1>
 <h3 align="center">An autodidact computer science student and a self-learned full stack developer</h3>
-<img align="right" alt="Coding" width="300" src="https://instagram.fsdv2-1.fna.fbcdn.net/v/t51.2885-15/277291508_135379425718800_6735890101527664148_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fsdv2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=v9R92P0zlEgAX8RzdK7&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjgwNDE2MjQyMDM0NjI1MTIzMQ%3D%3D.2-ccb7-5&oh=00_AfBTT7JJRu7JvzIVF4k09dNcFP7Ly-El5NzThWKu3_W6Cg&oe=644938F8&_nc_sid=6136e7">
+<img align="right" alt="Coding" width="300" src="[https://instagram.fsdv2-1.fna.fbcdn.net/v/t51.2885-15/277291508_135379425718800_6735890101527664148_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fsdv2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=v9R92P0zlEgAX8RzdK7&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjgwNDE2MjQyMDM0NjI1MTIzMQ%3D%3D.2-ccb7-5&oh=00_AfBTT7JJRu7JvzIVF4k09dNcFP7Ly-El5NzThWKu3_W6Cg&oe=644938F8&_nc_sid=6136e7](https://lh3.google.com/u/0/d/1gJXCONDC0NNK3MshgUp2Rn6UTnXCcLiE=w3000-h6492-iv1)">
 
 - 🔭 I’m currently working on **ItsAviyaCoach**
 
