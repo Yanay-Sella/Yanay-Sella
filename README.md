@@ -1,5 +1,5 @@
 <h1 align="center">Hi, im Yanay Sella</h1>
-<h3 align="center">An autodidact computer science student and a self-learned full stack developer</h3>
+<h3 align="center">Backend Software Engineer with a B.Sc. in Computer Science and a full-stack background</h3>
 <img align="right" alt="Coding" width="300" src="https://files.catbox.moe/iwwj8n.png">
 
 - 🔭 I’m currently working in **Appdome**
