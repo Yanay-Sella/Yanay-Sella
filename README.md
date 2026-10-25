@@ -2,7 +2,7 @@
 <h3 align="center">An autodidact computer science student and a self-learned full stack developer</h3>
 <img align="right" alt="Coding" width="300" src="https://files.catbox.moe/iwwj8n.png">
 
-- 🔭 I’m currently working in **IDF**
+- 🔭 I’m currently working in **Appdome**
 
 - 👨‍💻 My most recent project: [https://talking-heads.netlify.app/](https://talking-heads.netlify.app/)
 
